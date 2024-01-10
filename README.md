@@ -2,7 +2,7 @@ Hi there! 👋
 
 I'm Junior, a passionate front-end developer with a knack for crafting engaging and responsive web interfaces. 💻✨
 
-Skills
+Skills:
 
 HTML 
 
@@ -13,11 +13,11 @@ JavaScript
 React
 
 
-What I Do
+What I Do:
 
 I specialize in creating dynamic and visually appealing websites using the latest front-end technologies. Whether it's building from scratch or enhancing existing projects, I bring creativity and functionality to the forefront.
 
-Highlights
+Highlights:
 
 🚀 Proficient in HTML, CSS, and JavaScript
 
