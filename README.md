@@ -17,7 +17,9 @@ I specialize in creating dynamic and visually appealing websites using the lates
 Highlights
 
 🚀 Proficient in HTML, CSS, and JavaScript
+
 ⚛️ Proficiency in React for building modular and interactive components
+
 📱 Responsive web design for seamless experiences across devices
 Let's Connect!
 
