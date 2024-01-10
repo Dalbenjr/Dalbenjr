@@ -4,9 +4,12 @@ I'm Junior, a passionate front-end developer with a knack for crafting engaging 
 
 Skills
 
-HTML
+HTML 
+
 CSS
+
 JavaScript
+
 React
 
 
