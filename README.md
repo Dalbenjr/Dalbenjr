@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Junior, a passionate front-end developer with a knack for crafting engaging and responsive web interfaces. 💻✨
+I'm Junior, a passionate Junior Back-end developer with a knack for crafting engaging and responsive web interfaces. 💻✨
 
 Skills:
 
@@ -12,6 +12,10 @@ JavaScript
 
 React
 
+Ruby
+
+Ruby on Rails
+
 
 What I Do:
 
@@ -19,7 +23,7 @@ I specialize in creating dynamic and visually appealing websites using the lates
 
 Highlights:
 
-🚀 Proficient in HTML, CSS, and JavaScript
+🚀 Proficient in HTML, CSS, JavaScript, Ruby and Ruby on Rails
 
 ⚛️ Proficiency in React for building modular and interactive components
 
