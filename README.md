@@ -12,18 +12,16 @@ JavaScript
 
 React
 
-Ruby
-
-Ruby on Rails
+Node.js
 
 
 What I Do:
 
-I specialize in creating dynamic and visually appealing websites using the latest front-end technologies. Whether it's building from scratch or enhancing existing projects, I bring creativity and functionality to the forefront.
+I have a solid understanding of Node.js, building scalable backend applications with frameworks like Express.js and using Sequelize for database management. I'm proficient in handling asynchronous operations, integrating databases, and implementing real-time features. I focus on security, testing, and performance optimization to create reliable and efficient applications.
 
 Highlights:
 
-🚀 Proficient in HTML, CSS, JavaScript, Ruby and Ruby on Rails
+🚀 Proficient in HTML, CSS and Bootstrap, JavaScript and Node.js
 
 ⚛️ Proficiency in React for building modular and interactive components
 
