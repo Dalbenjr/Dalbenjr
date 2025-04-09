@@ -15,7 +15,7 @@ PHP
 Magento 
 
 What I Do:
-I’m a Junior PHP developer with a strong focus on Magento 2. I have a solid understanding of Magento’s MVC architecture and am familiar with the basics of module development. I’m always working to improve my skills and learn new technologies to build better applications. Currently, I'm learning Laravel to expand my back-end development knowledge and enhance my skill set.
+I’m a Junior PHP developer with a strong focus on Magento 2. I have a solid understanding of Magento’s MVC architecture and am familiar with the fundamentals of module development. I’m always working to improve my skills and learn new technologies to build better applications. Currently, I'm learning Laravel to expand my back-end development knowledge and enhance my skill set.
 
 Highlights:
 🚀 Proficient in HTML, CSS, Bootstrap, JavaScript, and PHP
