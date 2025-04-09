@@ -10,8 +10,6 @@ CSS
 
 JavaScript
 
-React
-
 PHP
 
 Magento 
