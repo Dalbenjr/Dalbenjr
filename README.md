@@ -32,7 +32,7 @@ Let's Connect!
 
 Feel free to explore my repositories and drop a star on anything you find interesting! 🌟 Thanks for stopping by!
 
-Now it highlights your role as a Junior PHP developer and includes that you're currently learning Laravel. Let me know if you need any further adjustments!
+
 
 
 
