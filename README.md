@@ -20,7 +20,7 @@ I’m a Junior PHP developer with a strong focus on Magento 2. I have a solid un
 Highlights:
 🚀 Proficient in HTML, CSS, Bootstrap, JavaScript, and PHP.
 
-📦 Experienced in Magento 2, with a good understanding of the Magento MVC architecture and module development basics.
+📦 Experience with Magento 2, with a good understanding of the Magento MVC architecture and module development basics.
 
 📱 Responsive web design for seamless experiences across devices
 
