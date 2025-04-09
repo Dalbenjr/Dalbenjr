@@ -3,6 +3,7 @@ Hi there! 👋
 I'm Junior, a passionate Junior Back-end developer with a knack for crafting engaging and responsive web interfaces. 💻✨
 
 Skills:
+
 HTML
 
 CSS
