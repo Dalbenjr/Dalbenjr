@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Junior, a passionate Junior Back-end developer with a knack for crafting engaging web interfaces. 💻✨
+I'm Julio, a passionate Junior Back-end developer with a knack for crafting engaging web interfaces. 💻✨
 
 Skills:
 
